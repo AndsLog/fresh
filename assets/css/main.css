@@ -853,10 +853,11 @@ pre code {
   font-size: 3rem;
   font-weight: 700;
 }
-
+/*
 .sidebar-social {
   text-align: center;
 }
+*/
 .sidebar-social .social-items {
   display: inline-block;
 }
