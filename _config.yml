@@ -18,7 +18,7 @@ github: AndsLog
 discus-identifier: # Add your Disqus identifier
 
 # Paginate
-paginate: 1
+paginate: 5
 paginate_path: /page:num/
 
 # Build settings
