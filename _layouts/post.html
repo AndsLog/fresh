@@ -13,6 +13,8 @@ layout: default
       {% endif %}
       {{page.content | markdownify}}
     </div>
-    {% include pagination.html %}
+    {% if post.catgories == 'works'%}
+        {% include pagination.html %}
+    {% endif %}
   </div>
 </article>
