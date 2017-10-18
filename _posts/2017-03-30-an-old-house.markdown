@@ -1,5 +1,5 @@
 ---
-layout: text
+layout: texts
 title:  "An old house"
 date:   2017-03-30 00:00:00
 img: house.jpg
