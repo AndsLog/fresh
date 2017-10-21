@@ -13,7 +13,7 @@ description: 組譯器(assembler)，是將組合語言轉換成機器碼(machine
 
 以下為SIC組合語言的範例
 
-![GIF](assets/img/sp01.gif)
+![GIF](https://github.com/AndsLog/simple-assembler/blob/master/img/sp01.gif)
 
 ***
 
