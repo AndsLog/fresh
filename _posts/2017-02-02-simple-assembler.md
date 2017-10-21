@@ -13,7 +13,7 @@ description: 組譯器(assembler)，是將組合語言轉換成機器碼(machine
 
 以下為SIC組合語言的範例
 
-![GIF](fresh/assets/img/sp01.gif)
+![GIF](../assets/img/sp01.gif)
 
 ***
 
@@ -52,7 +52,7 @@ description: 組譯器(assembler)，是將組合語言轉換成機器碼(machine
 
 流程圖
 
-![PNG](assets/img/pass1.PNG)
+![PNG](../assets/img/pass1.PNG)
 
 Output
 
@@ -75,7 +75,7 @@ Output
 
 流程圖
 
-![PNG](assets/img/pass2.PNG)
+![PNG](../assets/img/pass2.PNG)
 
 Output
 
