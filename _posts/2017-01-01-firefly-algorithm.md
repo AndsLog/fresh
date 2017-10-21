@@ -13,7 +13,7 @@ description: 螢火蟲演算法(firefly algorithm)是一種啟發式算法，靈
 
 以下為螢火蟲演算法的流程圖
 
-![PNG](../assets/img/flow.PNG)
+![PNG](assets/img/flow.PNG)
 
 ***
 
@@ -25,7 +25,7 @@ description: 螢火蟲演算法(firefly algorithm)是一種啟發式算法，靈
 
 公園平面圖
 
-![PNG](../assets/img/park.PNG)
+![PNG](assets/img/park.PNG)
 
 現在開始，小黑要決定一下條件
 1. 場所權重
@@ -38,6 +38,6 @@ description: 螢火蟲演算法(firefly algorithm)是一種啟發式算法，靈
 
 # Demo
 
-![GIF](../assets/img/demo.gif)
+![GIF](assets/img/demo.gif)
 
 Demo網址[Here](http://lab103.systemdynamics.tw/happy123/check/firefly/firefly.php)
