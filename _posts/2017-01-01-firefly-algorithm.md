@@ -6,8 +6,10 @@
 
 以下為螢火蟲演算法的流程圖
 
-![PNG](firefly/img/flow.PNG)
+![PNG](https://github.com/AndsLog/firefly/img/flow.PNG)
+
 ***
+
 ## 螢火蟲演算法應用
 
 > 近幾年野餐風氣盛行，某天，小黑想要到戶外野餐，可是遇到一個問題，那就是到底要在哪個地點野餐比較好呢。
@@ -16,7 +18,7 @@
 
 公園平面圖
 
-![PNG](firefly/img/park.PNG)
+![PNG](https://github.com/AndsLog/firefly/img/park.PNG)
 
 現在開始，小黑要決定一下條件
 1. 場所權重
@@ -29,6 +31,6 @@
 
 # Demo
 
-![GIF](firefly/img/demo.gif)
+![GIF](https://github.com/AndsLog/firefly/img/demo.gif)
 
 Demo網址[Here](http://lab103.systemdynamics.tw/happy123/check/firefly/firefly.php)

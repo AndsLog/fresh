@@ -6,8 +6,10 @@
 
 以下為SIC組合語言的範例
 
-![GIF](simple-assembler/img/sp01.gif)
+![GIF](https://github.com/AndsLog/simple-assembler/img/sp01.gif)
+
 ***
+
 這支程式是由JAVA所寫成
 
 要將下列SIC組合語言，轉換成機器碼(machine code)
@@ -29,8 +31,10 @@
         .
         .
 
-完整版[Here](simple-assembler/test.txt)
+完整版[Here](https://github.com/AndsLog/simple-assembler/test.txt)
+
 ***
+
 以下是程式的流程圖及Output，分為Pass 1及Pass 2
 
 # Pass 1：將助記碼(mnemonic code)轉換成機器碼(machine code)。
@@ -54,7 +58,7 @@ Output
         13: 100f 48 WRREC
         14: 1012 3C CLOOP
 
-完整版[Here](simple-assembler/out.txt)
+完整版[Here](https://github.com/AndsLog/simple-assembler/out.txt)
 
 # Pass 2：將符號式運算元(Symbolic operand)或符號式地址(Symbolic address)轉換成機器內部的表示法方式或記憶地址。
 
@@ -64,7 +68,7 @@ Output
 
 流程圖
 
-![PNG](simple-assembler/img/pass2.PNG)
+![PNG](https://github.com/AndsLog/simple-assembler/img/pass2.PNG)
 
 Output
 
