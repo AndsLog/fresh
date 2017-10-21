@@ -6,7 +6,7 @@
 
 以下為螢火蟲演算法的流程圖
 
-![PNG](https://github.com/AndsLog/firefly/img/flow.PNG)
+![PNG](https://github.com/AndsLog/firefly/blob/master/img/flow.PNG)
 
 ***
 
@@ -18,7 +18,7 @@
 
 公園平面圖
 
-![PNG](https://github.com/AndsLog/firefly/img/park.PNG)
+![PNG](https://github.com/AndsLog/firefly/blob/master/img/park.PNG)
 
 現在開始，小黑要決定一下條件
 1. 場所權重
@@ -31,6 +31,6 @@
 
 # Demo
 
-![GIF](https://github.com/AndsLog/firefly/img/demo.gif)
+![GIF](https://github.com/AndsLog/firefly/blob/master/img/demo.gif)
 
 Demo網址[Here](http://lab103.systemdynamics.tw/happy123/check/firefly/firefly.php)
