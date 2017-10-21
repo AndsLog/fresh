@@ -6,7 +6,7 @@
 
 以下為SIC組合語言的範例
 
-![GIF](https://github.com/AndsLog/simple-assembler/img/sp01.gif)
+![GIF](assets/img/sp01.gif)
 
 ***
 
@@ -31,7 +31,7 @@
         .
         .
 
-完整版[Here](https://github.com/AndsLog/simple-assembler/test.txt)
+完整版[Here](https://github.com/AndsLog/simple-assembler/blob/master/test.txt)
 
 ***
 
@@ -45,7 +45,7 @@
 
 流程圖
 
-![PNG](simple-assembler/img/pass1.PNG)
+![PNG](assets/img/pass1.PNG)
 
 Output
 
@@ -58,7 +58,7 @@ Output
         13: 100f 48 WRREC
         14: 1012 3C CLOOP
 
-完整版[Here](https://github.com/AndsLog/simple-assembler/out.txt)
+完整版[Here](https://github.com/AndsLog/simple-assembler/blob/master/out.txt)
 
 # Pass 2：將符號式運算元(Symbolic operand)或符號式地址(Symbolic address)轉換成機器內部的表示法方式或記憶地址。
 
@@ -68,7 +68,7 @@ Output
 
 流程圖
 
-![PNG](https://github.com/AndsLog/simple-assembler/img/pass2.PNG)
+![PNG](assets/img/pass2.PNG)
 
 Output
 
