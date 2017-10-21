@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "simple-assembler"
+date:   2017-02-02 00:00:00
+description: 組譯器(assembler)，是將組合語言轉換成機器碼(machine code)的程式。
+---
+
 ### simple-assembler
 
 > 組譯器(assembler)，是將組合語言轉換成機器碼(machine code)的程式
@@ -6,7 +13,7 @@
 
 以下為SIC組合語言的範例
 
-![GIF](assets/img/sp01.gif)
+![GIF](../assets/img/sp01.gif)
 
 ***
 
@@ -45,7 +52,7 @@
 
 流程圖
 
-![PNG](assets/img/pass1.PNG)
+![PNG](../assets/img/pass1.PNG)
 
 Output
 
@@ -68,7 +75,7 @@ Output
 
 流程圖
 
-![PNG](assets/img/pass2.PNG)
+![PNG](../assets/img/pass2.PNG)
 
 Output
 
