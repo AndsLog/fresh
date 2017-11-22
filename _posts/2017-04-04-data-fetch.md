@@ -13,6 +13,7 @@ description: 為了要隨時能知道所得稅法法條更新的狀況。使用v
 > 參考影片：
 >- [Here1](https://www.youtube.com/watch?v=bd4-f5lo9F0)
 >- [Here2](https://www.youtube.com/watch?v=ukWb7SYi5R8)
+
 ***
 
 利用[全國法規資料庫的公佈欄](http://law.moj.gov.tw/News/news_result.aspx?SearchRange=G&k1=%E6%89%80%E5%BE%97%E7%A8%85%E6%B3%95)，得知所得稅法最新的狀況
@@ -23,4 +24,4 @@ gogo按鈕：是將公佈欄第一頁的資料儲存在工作表1中
 
 # Demo
 
-![GIF](df_demo.gif)
+![GIF](../assets/img/df_demo.gif)
