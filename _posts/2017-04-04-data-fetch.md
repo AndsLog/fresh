@@ -1,4 +1,10 @@
-###data-fetch
+---
+layout: post
+title: "data-fetch"
+date:   2017-04-04 00:00:00
+description: 為了要隨時能知道所得稅法法條更新的狀況。使用vba，透過excel的巨集，將網頁中的表格(form)，拉進本機的excel檔案中。
+---
+### data-fetch
 
 > 用途：為了要隨時能知道所得稅法法條更新的狀況
 
