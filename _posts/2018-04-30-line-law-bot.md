@@ -13,12 +13,12 @@ description: 為了要隨時能知道所得稅法法條更新的狀況。使用 
 > 使用 github 與 heroku 的自動佈署功能
 
 ***
+
 參考 Line SDK 中的 [echo-bot](https://github.com/AndsLog/line-bot-sdk-nodejs/tree/master/examples/echo-bot)，再加上 request、cheerio 製作簡易的網路爬蟲應用。
 
 Bot QR code
 
 ![QR code](../assets/img/QRcode.png)
-
 
 > 參考資料:
 >- [[Node.js] 用 request + cheerio 抓取即時天氣](https://larrylu.blog/nodejs-request-cheerio-weather-414e33f45c7d)
