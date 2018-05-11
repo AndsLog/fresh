@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "classify-data"
+title:  "classify-data"
 date:   2017-06-06 00:00:00
 description: 將excel中重複性的資料處理流程自動化。
 ---
