@@ -2,7 +2,7 @@
 layout: post
 title:  "line-law-bot"
 date:   2018-04-30 00:00:00
-description: 為了要隨時能知道所得稅法法條更新的狀況。使用 Line API ，及 Node.js 的 Library: request、cheerio，製作能即時取得目前法律修改狀況的 bot。
+description: 使用 Line API ，及 Node.js 的 Library: request、cheerio，製作能即時取得目前法律修改狀況的 bot。
 ---
 
 ### law-bot
