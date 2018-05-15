@@ -858,9 +858,16 @@ pre code {
 .sidebar-social .social-items {
   display: inline-block;
 }
-.sidebar-social .social-links {
+.sidebar-social {
   display: inline-block;
   text-decoration: none;
+}
+.fresh .social-links {
+  display: inline-block;
+  text-decoration: none;
+  font-size:1.2rem;
+  color:#fff;
+  padding:1rem 0rem 1rem 1.3rem;
 }
 .sidebar-social .social-icons {
   font-size: 1.4rem;
