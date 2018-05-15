@@ -858,7 +858,7 @@ pre code {
 .sidebar-social .social-items {
   display: inline-block;
 }
-.sidebar-social {
+.sidebar-social .social-links{
   display: inline-block;
   text-decoration: none;
 }
@@ -867,7 +867,7 @@ pre code {
   /* text-decoration: none; */
   font-size: 1.2rem;
   color: #fff;
-  padding:1rem 0rem 1rem 1.3rem;
+  padding-left: 1.3rem;
 }
 .sidebar-social .social-icons {
   font-size: 1.4rem;
