@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "firefly algorithm demo"
-date:   2017-01-01 00:00:00
+title: "firefly algorithm demo"
+date: 2017-01-01 00:00:00
 description: 螢火蟲演算法(firefly algorithm)是一種啟發式算法，靈感來自於螢火蟲閃爍的行為。
 ---
 

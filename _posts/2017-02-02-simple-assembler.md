@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "simple-assembler"
-date:   2017-02-02 00:00:00
+title: "simple-assembler"
+date: 2017-02-02 00:00:00
 description: 組譯器(assembler)，是將組合語言轉換成機器碼(machine code)的程式。
 ---
 
