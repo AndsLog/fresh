@@ -76,7 +76,7 @@ hr {
  * 2. Correct the odd `em` font sizing in all browsers.
  */
 pre {
-  font-family: monospace, monospace;
+  font-family: "微軟正黑體", "Microsoft JhengHei",arial,sans-serif;
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -131,7 +131,7 @@ strong {
 code,
 kbd,
 samp {
-  font-family: monospace, monospace;
+  font-family: "微軟正黑體", "Microsoft JhengHei",arial,sans-serif;
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -727,7 +727,7 @@ template {
 
 html {
   line-height: 1.5;
-  font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+  font-family: "微軟正黑體", "Microsoft JhengHei",arial,sans-serif;
 }
 
 @media screen and (min-width: 500px) {
@@ -895,7 +895,7 @@ pre code {
   padding: 1rem;
 }
 .main-article .title-article, .main-article .page-title, .main-article .post-title, .page-article .title-article, .page-article .page-title, .page-article .post-title, .post .title-article, .post .page-title, .post .post-title {
-  font-family: "Times New Roman", Times, sans-serif;
+  font-family: "微軟正黑體", "Microsoft JhengHei","Times New Roman", Times, sans-serif;
   margin-bottom: 0;
   -webkit-transition: all .3s;
   transition: all .3s;
@@ -910,7 +910,7 @@ pre code {
 .main-article .post-date span, .main-article .page-date span, .page-article .post-date span, .page-article .page-date span, .post .post-date span, .post .page-date span {
   font-size: 0.8rem;
   text-transform: uppercase;
-  font-family: monospace;
+  font-family: "微軟正黑體", "Microsoft JhengHei",arial,sans-serif;
   color: lightgreen;
 }
 .main-article .more, .page-article .more, .post .more {
