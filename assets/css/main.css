@@ -202,7 +202,6 @@ audio:not([controls]) {
  */
 img {
   border-style: none;
-  margin: 2%;
 }
 
 /**
@@ -749,6 +748,7 @@ body {
 
 img {
   max-width: 100%;
+  margin: 2%;
 }
 
 a {
