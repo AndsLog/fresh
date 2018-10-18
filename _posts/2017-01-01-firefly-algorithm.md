@@ -17,7 +17,7 @@ description: 螢火蟲演算法(firefly algorithm)是一種啟發式算法，靈
 
 ***
 
-## 螢火蟲演算法應用
+#### 螢火蟲演算法應用
 
 > 近幾年野餐風氣盛行，某天，小黑想要到戶外野餐，可是遇到一個問題，那就是到底要在哪個地點野餐比較好呢。
 
@@ -36,7 +36,9 @@ description: 螢火蟲演算法(firefly algorithm)是一種啟發式算法，靈
 * 涼亭
 2. 螢火蟲數量
 
-# Demo
+***
+
+#### Demo
 
 ![GIF](../assets/img/demo.gif)
 
