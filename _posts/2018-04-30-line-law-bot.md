@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "line-law-bot"
+title: "line law bot"
 date: 2018-04-30 00:00:00
 description: 使用Line API，及Node.js的Library:request、cheerio，製作能即時取得目前法律修改狀況的bot。
 ---
